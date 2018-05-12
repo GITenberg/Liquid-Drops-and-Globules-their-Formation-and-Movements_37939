@@ -1,0 +1,29 @@
+_repo: Liquid-Drops-and-Globules-their-Formation-and-Movements_37939
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37939-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Darling, Charles R. (Charles Robert)
+    alias: Darling, Charles Robert
+    birthdate: 1870
+    gutenberg_agent_id: '39152'
+    url: http://www.gutenberg.org/2009/agents/39152
+description: ''
+gutenberg_issued: '2011-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Surface tension'
+- !lcsh 'Liquids'
+- !lcsh 'Drops'
+- !lcc 'QC'
+title: "Liquid Drops and Globules, Their Formation and Movements\r\nThree lectures\
+  \ delivered to popular audiences"
+url: http://www.gutenberg.org/ebooks/37939
